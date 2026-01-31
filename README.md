@@ -134,3 +134,5 @@ Este proyecto demuestra que el valor del Data Science aplicado no reside en la c
 - Código de preparación de datos, EDA, modelado y NLP.
 - Documentación conceptual de la lógica de negocio.
 - Archivo README.
+- Nota sobre los datos: los archivos originales de la base de datos no se incluyen en este repositorio, ya que contienen información sensible del negocio. El proyecto utiliza datos reales anonimizados y estructuras representativas con fines exclusivamente académicos.
+
